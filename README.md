@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
   Gatsby Starter Shopify<br />
-  <small>(React 18 Edition)</small>
+  <small>(React 18)</small>
 </h1>
 
 Kick off your next [Shopify](https://www.shopify.com/) project with this boilerplate. This starter creates a store with a custom landing page, individual filtered views for each product, detailed product pages, advanced instant search and a shopping cart. All styled with CSS Modules.
